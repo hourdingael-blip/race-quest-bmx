@@ -1,0 +1,16 @@
+RACE QUEST : VERSION AVEC CINEMATIQUES
+
+Tu peux essayer l'application sur ordinateur avec index.html.
+Pour avoir son icone sur iPhone, il faut d'abord publier le dossier sur une adresse web HTTPS.
+Cette version n'est pas encore installee sur ton telephone.
+
+Avec un parent :
+1. Extraire le fichier ZIP dans Fichiers.
+2. Publier les fichiers du dossier sur un hebergement statique (par exemple GitHub Pages ou Cloudflare Pages). Aucune intelligence artificielle de Netlify n'est necessaire.
+3. Ouvrir l'adresse HTTPS dans Safari sur iPhone.
+4. Partager > Sur l'ecran d'accueil > Ajouter.
+
+Attention : des credits gratuits epuises sur Netlify peuvent empecher une nouvelle publication chez Netlify meme sans IA. Utiliser un hebergement different si necessaire.
+
+Les introductions sont des scenes animees interactives en HTML et CSS (pas des fichiers video MP4).
+La nouvelle application ne reprend pas automatiquement les statistiques enregistrees par ton ancienne appli. Ne supprime pas l'ancienne avant d'avoir teste la nouvelle.

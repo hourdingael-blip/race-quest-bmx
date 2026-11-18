@@ -1,0 +1,6 @@
+RACE QUEST - Application avec cinematiques animees originales.
+1. Extraire ce ZIP dans Fichiers.
+2. Avec un adulte, heberger le dossier sur un site HTTPS (GitHub Pages, Cloudflare Pages ou Netlify si deploiement autorise).
+3. Ouvrir le lien public dans Safari, puis Partager > Sur l'ecran d'accueil > Ajouter.
+ATTENTION: Ce ZIP n'est pas une appli iPhone executable directement. Les transitions sont des animations HTML/CSS, pas des fichiers video MP4.
+Les donnees de jeu restent sur cet appareil. La nouvelle app ne reprend pas automatiquement les donnees de l'ancienne.
